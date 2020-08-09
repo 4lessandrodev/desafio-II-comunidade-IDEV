@@ -7,6 +7,15 @@ let linkGithubMemberA = "https://github.com/ALESSANDROLMENEZES";
 let linkGithubMemberB = "https://github.com/AndreSVyeyra";
     
 let nameMemberA = "Alessandro dev";
+let nameMemberB = "André Vieira";
+
+
+let comunnityName = "IDEV";
+
+let challengeTitle = "Variáveis";
+
+    let technologiesYouLearned = ["Git","GitHub","JavaScript"];
+    
     
     
     
