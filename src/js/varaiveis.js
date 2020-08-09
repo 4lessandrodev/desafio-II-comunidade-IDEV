@@ -18,7 +18,11 @@
     
     let githubUserNameMemberA = "ALESSANDROLMENEZES";
     
-    
+    let githubUserNameMemberB = "ANDRESVYEYRA";
+
+    let professionalObjetive = "Cientista de Banco de Dados";
+
+    let yearYourObjective = 2027;
     
     
     
