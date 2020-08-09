@@ -6,6 +6,7 @@ let linkAvatarMemberB = "https://avatars1.githubusercontent.com/u/56928555?s=460
 let linkGithubMemberA = "https://github.com/ALESSANDROLMENEZES";
 let linkGithubMemberB = "https://github.com/AndreSVyeyra";
     
+let nameMemberA = "Alessandro dev";
     
     
     
