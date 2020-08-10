@@ -19,10 +19,17 @@
     let githubUserNameMemberA = "ALESSANDROLMENEZES";
     
     let githubUserNameMemberB = "ANDRESVYEYRA";
-
+    
     let professionalObjetive = "Cientista de Banco de Dados";
-
+    
     let yearYourObjective = 2027;
+    
+    let city = "Belém do São Francisco";
+    let day = 09;
+    let month = "agosto";
+    let year = 2020;
+    
+let money = 500000.00;
     
     
     
