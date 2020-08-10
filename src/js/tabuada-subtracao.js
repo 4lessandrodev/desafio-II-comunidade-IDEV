@@ -18,4 +18,28 @@ totalGeral += fatorSubtracao + indice;
 console.log(`${fatorSubtracao} - ${indice} : ${fatorSubtracao - indice}`);
 indice++;
 
+totalGeral += fatorSubtracao + indice;
+console.log(`${fatorSubtracao} - ${indice} : ${fatorSubtracao - indice}`);
+indice++;
+
+totalGeral += fatorSubtracao + indice;
+console.log(`${fatorSubtracao} - ${indice} : ${fatorSubtracao - indice}`);
+indice++;
+
+totalGeral += fatorSubtracao + indice;
+console.log(`${fatorSubtracao} - ${indice} : ${fatorSubtracao - indice}`);
+indice++;
+
+totalGeral += fatorSubtracao + indice;
+console.log(`${fatorSubtracao} - ${indice} : ${fatorSubtracao - indice}`);
+indice++;
+
+totalGeral += fatorSubtracao + indice;
+console.log(`${fatorSubtracao} - ${indice} : ${fatorSubtracao - indice}`);
+indice++;
+
+totalGeral += fatorSubtracao + indice;
+console.log(`${fatorSubtracao} - ${indice} : ${fatorSubtracao - indice}`);
+indice++;
+
 console.log(" Total = " + totalGeral);
